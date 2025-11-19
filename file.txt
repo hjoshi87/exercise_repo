@@ -1,2 +1,7 @@
 Hello, git
+<<<<<<< HEAD
+=======
+newline from dimas
+line 4 - heramb
+>>>>>>> refs/remotes/origin/main
 lalala
