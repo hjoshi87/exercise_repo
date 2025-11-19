@@ -1,1 +1,2 @@
 Hello, git
+newline from dimas
