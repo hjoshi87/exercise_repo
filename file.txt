@@ -1,3 +1,6 @@
 Hello, git
+<<<<<<< HEAD
 newline from dimas
+=======
+>>>>>>> main
 lalala
